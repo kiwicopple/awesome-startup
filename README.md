@@ -45,4 +45,5 @@ Queues
 
 Name | Opensource | Language | Discussions
 --- | --- | --- | ---
+[Bull](https://github.com/OptimalBits/bull) | [TRUE](https://github.com/OptimalBits/bull) | JS | ---
 [TaskBotJS](https://edboxes.com/taskbotjs.html) | [TRUE](https://github.com/eropple/taskbotjs/) | JS, Typescript | [HN](https://news.ycombinator.com/item?id=17471938)
