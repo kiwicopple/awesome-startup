@@ -16,30 +16,24 @@ Table of Contents
 CI / Workflows
 ======
 
-* [Gaia](https://github.com/gaia-pipeline/gaia)
-  * [x] [Opensource](https://github.com/gaia-pipeline/gaia)
-  * Discussion: [HN](https://news.ycombinator.com/item?id=17495732)
-  * Lang: Go
-
+Name | Opensource | Language | Discussions
+--- | --- | --- | ---
+[Gaia](https://github.com/gaia-pipeline/gaia) | [TRUE](https://github.com/gaia-pipeline/gaia) | Go | [HN](https://news.ycombinator.com/item?id=17495732)
 
 
 CMS
 ======
 
-* [CraftCMS](https://craftcms.com/pricing)
-  * [x] [Opensource](https://github.com/craftcms)
-  * Discussion:
-  * Lang: PHP
-* [GraphCMS](https://graphcms.com/pricing)
-  * [ ] Opensource
-  * Discussion: [HN](https://news.ycombinator.com/item?id=17450974)
-  * Lang:
+Name | Opensource | Language | Discussions
+--- | --- | --- | ---
+[CraftCMS](https://craftcms.com/pricing) | [TRUE](https://github.com/craftcms) | PHP | ---
+[GraphCMS](https://graphcms.com/pricing) | [FALSE] | --- | [HN](https://news.ycombinator.com/item?id=17450974)
+
 
 
 Queues
 ======
 
-* [TaskBotJS](https://edboxes.com/taskbotjs.html)
-  * [x] [Opensource](https://github.com/eropple/taskbotjs/)
-  * Discussion: [HN](https://news.ycombinator.com/item?id=17471938)
-  * Lang: JS, Typescript
+Name | Opensource | Language | Discussions
+--- | --- | --- | ---
+[TaskBotJS](https://edboxes.com/taskbotjs.html) | [TRUE](https://github.com/eropple/taskbotjs/) | JS, Typescript | [HN](https://news.ycombinator.com/item?id=17471938)
